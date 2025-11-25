@@ -3,4 +3,4 @@ class Person:
         self.name = name
         self.age = age
 
-        self.name = "Sergey"
+        self.name = "Sergey!@@23122322"
